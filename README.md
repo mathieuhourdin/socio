@@ -1,3 +1,8 @@
+##### SOCIO
+
+This file is a trackrecord of the conception of the projetc (made for educational purpose mainly)
+
+### ideation
 
 I want to perform a base transformation of a sociology document.
 The document is presented in a descriptive way. Then it is coded with analytical codes.
