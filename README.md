@@ -1,4 +1,4 @@
-##### SOCIO
+# SOCIO
 
 This file is a trackrecord of the conception of the projetc (made for educational purpose mainly)
 
