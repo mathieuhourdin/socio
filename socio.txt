@@ -1,0 +1,508 @@
+Wetradelocal, de l’intérieur : notes auto-ethnographiques d’un manager tech sur la culture de l’exécution (en cours de rédaction)
+
+
+
+Organisation du document
+
+Méthode
+Etat d’avancement du document, clarification de ma position méthodologique, précautions sur le document et perspectives de suite du travail.
+Une première liste de codes analytiques pour catégoriser le matériau. 
+
+Sur l’entreprise
+Remarques générales sur l’entreprise, pour donner du contexte.
+
+Management et stratégie
+Centré sur les processus top-down dans l’entreprise. La question de la décision au niveau du comité de direction et sa transmission vers les équipes.
+
+Le commun de l’entreprise
+Description des dynamiques inter pôles, surtout du point de vue de l’équipe tech. Description assez précise des interactions de travail, la façon de les aiguiller, des attentes et frustrations dans les fonctionnements en place, et quelques liens avec des travaux de sociologie de l’activité sur la relation de service.
+
+L’équipe tech
+Description du fonctionnement interne de l’équipe. Tâches à accomplir, arbitrages, management des développeurs.
+
+Individuel
+Regard sur ce que je faisais bien et moins bien dans ce travail, sur le travail que je faisais sur moi même pour m’améliorer.
+
+
+
+Méthode
+
+Ma position
+
+Document en cours de rédaction
+J’envoie cette version du document pour permettre de démarrer des échanges. J’ai encore pas mal de contenu empirique à rajouter, certaines parties sont entièrement développées (les premières parties surtout) d’autres ont surtout les titres de paragraphe et n’ont pas été associées d’exemple concrets.
+
+Constitution des sources
+Ce document est écrit à postériori, deux ans après la période décrite. Il rassemble mes observations faites en tant qu’observateur participant aux situations décrites, en tant que Deputy CTO, membre du comité de direction et salarié de long terme de l’entreprise. J’avais un accès privilégié à de nombreuses facettes de l’entreprise et de ses salariés, étant à la fois présent aux comités de direction et aux verres du soir entre collègues de différents pôles, où les opinions personnelles et les vécus de la journée de chacun s'expriment plus librement. Je pense que cette position permet de donner une bonne vue d’ensemble des dynamiques à l'œuvre dans l’entreprise.
+
+La place des opinions normatives et le rôle de manager
+Cette position participante introduit aussi une complexité dans les données empiriques, qui prennent la forme d’une auto-ethnographie. Ce document retranscrit des observations brutes, mais aussi les analyses et les opinions qui étaient les miennes sur le moment. Ces opinions ont parfois un caractère prescriptif ou normatif : il m’arrive par exemple de juger qu’un mécanisme dysfonctionne ou manque d’efficacité. Le rôle de manager demande en effet d’avoir un regard sur les dynamiques de l’entreprise pour y apporter des corrections. J’essaie autant que possible de ramener un regard réflexif sur ces opinions, mais je pense qu’il est utile de les conserver car elles retranscrivent aussi ce qui fait le contenu de ce travail de manager.
+
+Différentes opinions dans l’entreprise
+Je note par ailleurs que certaines de ces opinions viennent aussi de ma position (manager intermédiaire, équipe tech) et que certaines personnes (fondatrices, managers d’autres pôles, salariés d’autres pôles ou développeurs de l’équipe tech) ont parfois des jugements différents sur certaines situations, et certains dysfonctionnements. J’introduis parfois ces positions discordantes, auxquelles j’ai eu accès dans un certain nombre de discussions, mais je ne les ai pas développées parce que ça prendrait un temps important.
+
+
+Suite du travail
+
+Liens avec la sociologie de l’activité
+Aujourd’hui ce document est surtout descriptif. J’ai commencé à introduire à certains endroits des analyses à partir de travaux de sociologie de l’activité présentés rapidement dans Les nouvelles sociologies du travail de Pascal Ughetto (Isaac Joseph, Michèle Lacoste, Jean-Marc Weller), surtout à propos de la dimension “activité de service”.
+
+Codage analytique
+Je pense qu’il faudra poursuivre par un travail de codage analytique de ces données sur des dimensions plus explicatives. A la fois à partir des dimensions identifiées par les sociologues de l’activité cités précédemment, mais aussi à partir du document “Méthode équipe tech” présenté précédemment, ou encore avec les notions mises en jeu dans des livres de management orientés culture de l’exécution, par exemple les livres de Grove, Ries, Horowitz.
+
+De quoi j’ai envie de parler
+Après avoir fait ce travail, je vois plusieurs directions intéressantes.
+Le management déficient. Comment dans beaucoup d’organisation le management n’est pas pensé, et laisse largement à désirer. Ce serait intéressant d’aller regarder dans les petites structures comme Fdc et les camionneuses où le huis clos laisse la place aux dérives.
+La culture de l’exécution. Comment certaines structures type scales up arrivent à mettre en place une culture de l’exécution très orienté résultat.
+La culture de l’invention. Comment des structures types startup early stage travaillent, entre liberté et structure.
+
+Questions à poser en entretien
+
+Dans fleurs d’ici : 
+Je peux leur demander de valider des choses etc. De réexprimer des choses que j’ai déjà signaler mais à leur manière avec leur point de vue… 
+
+CTOs en général :
+Comment savoir s'il faut mettre un dispositif ou pas à un moment donné ?
+Comment gérer le manque de précision dans la direction que vous suivez / dans ce qu’on vous demande ?
+Est ce que ça vous arrive souvent de devoir pivoter et comment vous le faites ?
+Comment gérez-vous le fait de commencer à faire sans savoir exactement où vous allez aboutir ?
+Comment faites vous le lien entre l’objectif cible et la situation actuelle ?
+Quelles sont les ressources que vous utilisez pour vous guider dans le travail et la façon de l’organiser ?
+Racontez des fois où vous avez mis en place des dispositifs organisationnels et de vous rendre compte que ça ne sert à rien en fait.
+Quelles difficultés vous pouvez rencontrer dans la collaboration avec les autres équipes
+La dimension produit n’est pas du tout creusée chez nous, mais il faudrait le faire chez d’autres boites.
+CTO : est ce que vous continuez à coder.
+
+
+Idée de grille analytique
+J’en suis à créer des codes assez fins en parcourant le document. Ensuite il faudra les regrouper dans des catégories plus générales. J’essaie de dégager au fur et à mesure les catégories dans les noms des codes.
+Liste de codes utilisés pour le moment (encore en cours d’élaboration) :
+Modes d’organisation du travail / techniques de travail
+[méthode] endroits où la méthode de travail de quelqu’un intervient (façon que quelqu’un a de procéder, qui se reproduit dans le temps).
+[improvisation] quand l’action est libre de tout dispositif
+[dispositif] quand la structuration de l’action passe par un dispositif extérieur
+[responsabilisation] quand on fait reposer la bonne réussite du travail sur la responsabilité des personnes plutôt que sur un dispositif.
+[séquencer] quand on prend petit bout par petit bout (activité ? organisationnel ? méthodes ?)
+[tout] quand on essaie de tout régler d’un coup plutôt que de séquencer (activité ? organisationnel ? méthodes ?)
+[premier_pas] quand il s’agit de faire un premier pas dans une direction donnée.
+[intention] Quand les dispositifs, actions… sont portés avec une véritable intention derrière (on limite les réunions à 30 minutes parce que ça force à se discipliner). (organisationnel ?)
+[durabilité] Long terme, stabilisation Vs urgence
+[apprentissage] Les moments où il y a de l’apprentissage, surtout au niveau collectif, “en tant qu’organisation” (ou où il y aurait pu). Peut être qu’il faudrait un autre code pour apprentissage individuel. (organisationnel ?)
+[infra] Infrastructure, dans le sens où il y a un travail sur les structures et les dispositifs qui encadrent l’activité, et non pas une activité au premier degré comme recherche immédiate des résultats.
+[penser] Penser. Quand il y a un travail / une activité essentiellement intellectuelle, qui n’amène pas de transformations des produits de l’entreprise. Typiquement, discussions stratégiques. (Activité ?)
+[faire] Faire. Quand il y a travail sur les produits de l’entreprise (livraison de bouquets, nettoyage de données, code…) (Activité ?)
+[petites_taches] Les petites tâches un peu chiantes comme installer la visio, ou nettoyer les données.
+[fake make] Fake it Vs Make it. Quand la distance entre l’image extérieur de l’entreprise et la réalité intérieur joue un rôle.
+Management 
+[management_former] Management : Former (management, interactions)
+[management_utiliser] Management : utiliser les gens un peu bêtement (management, interactions)
+[management_autonomie] Management laisser de l’autonomie (management, interactions)
+[management_suivi] Management : suivre ce que font les gens (management, interactions)
+[management_categorisation] Management : catégoriser les personnes qu’on supervise
+[informer] diffuser l’information autour de soi, pas forcément de façon explicite
+[coordonner]
+[déconnexion] Déconnexion du management dans sa représentation de la situation / du travail des salariés
+[écart] écart prescrit - réel (dans les instructions)
+[engagement] engagement plus fort. (individuel ?)
+[desengagement] désengagement. (individuel ?)
+[reconnaissance] Quand on manque ou on reçoit de la reconnaissance. (individuel ?)
+[stabilité] Stabilité ou instabilité
+[clarté] Clarté Vs dissimulation de certaines choses
+[précision] précision Vs flou
+[focus] concentrer l’activité sur ce qu’on trouve important (organisationnel ?)
+[dispersion] quand on se disperse trop (organisationnel ?)
+[reunion_vide] quand les réunions ne servent à rien (organisationnel)
+[competence] Quand la question des compétences entre en jeu (individuel ?)
+[crédibilité] Les enjeux de crédibilité entre personnes ou équipes (interactions ?)
+[rigueur] capacité à se tenir aux décisions prises (Organisationnel ? Individuel ? Vertu ?)
+[culture] Les moments où avoir une culture de travail différente a des implications (individuel / subjectif ?)
+[intérêts] quand les intérêts sont divergents  (interactions ?)
+[X] facteur X, tout ce qui a trait à la psychologie particulière d’Hortense (et un peu de chloé) comme le fait de jamais accepter d’avoir tort (je voudrais dire son côté toxique). Je crée cette catégorie pour isoler cette composante et voire après ce que j’en fais. (psychologique / individuel)
+[oral] Quand les interactions se passent à l’oral (interactions)
+[écrit] Quand les interactions se passent à l’écrit (interactions)
+[service_education] Service : éducation des clients (service, interactions)
+[service_arbitrage] Service : quand on doit choisir entre la satisfaction de différentes attentes des clients (internes ou externes).
+[service_categorisation] Service : catégorisation des clients (service, interactions)
+
+On pourrait appliquer la grille d’Andy Grove (préfixe g pour grove) : 
+[grove_information_rassembler] Réunir des informations (Information gathering) i = input
+[grove_nudge] Inciter (Nudge)
+[grove_decision] Prendre des décisions (Decision making)
+[grove_information_diffuser] Donner des information (Information giving) o = output
+[grove_model] Incarner un rôle modèle (Role model)
+
+
+
+Sur l’entreprise
+
+Difficultés de management : cette entreprise n’était pas de tout repos, elle connaissait des problèmes de management assez explicites pour ceux qui ont travaillé dedans, avec un turnover important et plusieurs départs en burnout. J’ai exposé certains de ces dysfonctionnements car ils sont importants pour comprendre les enjeux, notamment les répercussions dans les équipes de certaines postures adoptées par la direction. Malgré quelques écarts, j’évite cependant de trop centrer le récit sur les petites histoires interpersonnelles, particulièrement présentes, pour me concentrer sur la culture de l’exécution.
+
+De façon générale, cette entreprise a toujours mélangé la capacité à réaliser quelques coups de génie, souvent appuyés sur de l’improvisation et une part de bluff, mais elle a toujours eu beaucoup de mal à construire des projets de long terme hors situations d’urgence. [improvisation][durabilité]
+Nous avons par exemple réussi à obtenir une couverture médiatique importante, et par elle des contrats de fleurissement et végétalisation prestigieux comme le stade de France, LVMH ou Roland Garros. Une grande partie des ces réussites étant permises par le talent d’Hortense dans la communication et la construction d’une image de marque. Le reste du document décrit davantage l'échec de la construction de long terme derrière ces coups d’éclat, mais il est intéressant de savoir qu’ils existaient, et permettaient de maintenir une forme d’espoir dans la possibilité de succès de l’entreprise.
+
+
+Management et stratégie
+
+Quelques institutions
+Le management et la stratégie doivent avant tout être analysés dans deux institutions chez Wetradelocal : l’Horticoncile (comité de direction) et la réunion d’équipe du lundi.
+
+Horticoncile
+L’Horticoncile est le nom choisi pour le comité de direction (concile sur l’horticulture). Toutes les semaines (et plusieurs fois par semaine à certaines périodes) on se réunit avec Hortense, Chloé, Sarah directrice commerciale, Titouan directeur des opérations, Jean-Marc directeur financier, Laurent CTO et moi Deputy CTO. On discute des sujets stratégiques, des sujets légaux… Des présentations aux investisseurs, des différents projets en cours. 
+
+Réunion d’équipe du lundi
+Toutes les semaines, l’ensemble des employés se réunit le mardi pour une réunion. Cette réunion est toujours en partie en visio car un tiers des équipes est au Mans.
+Elle consiste généralement en un tour de table où chaque personne dit ce qu’elle a fait dans la semaine et ce qu’elle va faire la semaine suivante. À un certain stade, on essaie que ce soit juste une personne par pôle qui prenne la parole. [intention] [informer] [grove_information_rassembler]
+Cette réunion n’est pas aimée par les différents employés. Elle dure beaucoup trop longtemps alors que tout le monde a des choses à faire, et il est fréquent de recevoir des reproches de la part des fondatrices devant tout le monde. [engagement]
+
+Stratégie
+
+La stratégie de l’entreprise est un élément de flou et d’insécurité pour les différentes personnes qui y travaille, pour les raisons suivantes.
+Le style de management d’Hortense
+Hortense a tendance à beaucoup douter, et à toujours revenir sur ce qui a été fait. Elle questionne toujours les choix qui ont été faits dans le passé. Cette attitude correspond à la vision qu’elle a de son rôle : reposer la question du besoin. Elle répète régulièrement la phrase : “encore une fois, est ce qu’on s’est posé la question du besoin”. Ce retour au besoin peut être intéressant dans certaines circonstances, il faut parfois savoir se rendre compte qu’il est important d’abandonner un projet, ou de le rediriger dans une autre direction car le besoin n’est pas là. Cependant, cette réflexion ne peut pas être menée simplement dans l’abstrait : il faut parfois accepter de passer du temps à réaliser certaines étapes pour faire un bilan, et la conclusion n’est pas nécessairement d’abandonner le projet en entier, mais plutôt de valider des apprentissages pour une réorientation limitée du projet. [penser/faire] [précision][stabilité]
+Le retour à la question du besoin ajoute donc de la confusion dans de nombreux projets. On a souvent l’impression qu’Hortense ne sait pas vraiment sur quoi les gens travaillent, qu’elle ne sait pas pourquoi on fait une certaine chose alors que tout le monde le sait. [déconnexion] [management_suivi]
+
+De plus, Hortense porte une importance privilégiée à la construction de l’image de marque de l’entreprise. Elle construit cette image grâce à des envois de bouquets à des personnes privilégiées de son réseau, à des opérations spéciales comme les couronnes de Noël, la saint Valentin, où on envoie des produits à des personnes sélectionnées. Cela demande un surplus important de travail pour toutes les personnes qui travaillent aux opérations, et pousse à trop de diversité dans le fonctionnement de l’entreprise. Les personnes des opérations/du service client ont parfois l’impression d’être dévalorisées par rapport à ces personnes importantes pour lesquelles elles doivent se plier en quatre. [reconnaissance]
+
+Par ailleurs, elle se concentre de façon prépondérante dans la représentation extérieure. Cela comprend les opérations médias mais aussi des événements et des groupes de réseau d’entrepreneurs tels que France digitale, le Galion, tech4good. C’est elle qui rapporte des nouvelles de l’extérieur, de ses interactions avec le monde des investisseurs et des autres entrepreneurs. [fake make][grove_information_rassembler]
+En comparaison, elle s’intéresse très peu à l’interne. Elle ne travaille pas sur les éléments de business plan, elle ne se met pas au courant de l’état financier de l’entreprise, et elle ne passe pas vraiment de temps à faire du management. [intention] [management_suivi] [compétence]
+
+Le style de management de Chloé
+Chloé s’engage dans un nombre de tâches très conséquent pour compenser qu’Hortense se concentre uniquement sur l'extérieur. C’est elle qui tient la partie financière, les documents pour les investisseurs, le suivi des opérations… Elle a la capacité à gérer plein de situations dans l’urgence, ce qui est utile à certains stades du développement d’une startup. [dispersion]
+
+En contrepartie, elle a un temps réduit pour se concentrer sur chaque personne et chaque sujet. Elle a tendance à pratiquer ce que Joel Spolsky appelle le Hit and Run management. Elle arrive sur un sujet, comprend à moitié bien les enjeux, propose voire impose des solutions moyennement bien adaptées. Comme elle ne fait pas un suivi continu pour voir que ce qu’elle prescrit ne marche pas, elle ne comprend pas pourquoi les personnes n’appliquent pas ce qu’elle leur demande, alors qu’il y a souvent des raisons concrètes. [déconnexion][dispersion][management_suivi][écart][grove_nudge]
+
+De plus, elle a tendance à faire des fixations sur certaines notions de haut niveau qu’elle voudrait voir implémentées dans le fonctionnement de la plateforme, mais cela ne se transfère pas dans le concret pour plusieurs raisons. Un exemple est la question des catégories. Elle a l’intuition que la plateforme a besoin de fonctionner avec des grandes catégories plutôt qu’avec des des références précises, pour pouvoir offrir un fonctionnement local.  [penser][précision]
+Exemple : il faut proposer aux fleuristes de commander des “grosses fleurs claires” plutôt que des “roses blanches”, afin de pouvoir fournir des fleurs qui répondent à peu près au besoin du fleuriste même si la variété n’est pas exactement celle voulue.
+Le problème est qu’elle a des difficultés à traduire ces intuitions dans un format précis (une présentation, un plan d’action précis, des premières actions à réaliser…) et il est alors difficile pour les salariés de trouver des actions à réaliser qui vont dans cette direction. [écart] [déconnexion][faire][tout][sequencer]
+
+Processus de décision difficile
+Ces différentes caractéristiques font qu’il est très difficile de prendre des décisions dans l’entreprise. Il n’y a pas de direction claire, pas d’objectifs clairs… En Horticoncile, nous nous retrouvons à beaucoup discuter de questions très prospectives (quel rôle tenir dans 5 ans, quels sont les problèmes profonds des circuits courts, les idées intuitives de Chloé, ce qu’Hortense a entendu d’un investisseur récemment…) mais très peu de l’exécution quotidienne. [décision][penser][stabilité][grove_information_rassembler][grove_decision]
+De plus, l’entreprise s’est engagée dans plusieurs voies plus ou moins contradictoires : ventes de bouquets aux entreprises, vente de bouquets aux particuliers, végétalisation d’espaces, plateforme d’approvisionnement producteur - fleuriste, plateforme tech… 
+Malgré de nombreuses réunions, l’horticoncile ne parvient pas à trancher dans des directions particulières et actionnables. L’ensemble de l’entreprise a tendance à continuer dans un quotidien ronronnant. [dispersion]
+
+Transition vers une boîte tech ?
+L’entreprise Fleurs d’Ici a été créée avant tout comme entreprise de commerce autour de la fleur, avec quelques éléments de complexité supplémentaire (fonctionnement en réseau). Après la levée de fonds de 10M€, l’entreprise dit vouloir devenir une startup tech, que ce soit pour les investisseurs ou pour l’écosystème entrepreneurial. Cependant, ce discours est loin de représenter la même chose pour tous les membres de la direction. [clarté]
+Laurent, qui a été recruté comme CTO sur la base de ce discours, croit fondamentalement à cette évolution (et à la volonté des fondatrices de l’appliquer, dans un premier temps du moins). Il a une représentation assez pure de ce qu’est une boîte tech, après avoir travaillé chez Apple, dirigé techniquement une dizaine de startups, dont une dernière sous forme de réseau social revendue 300M€ à Snapchat. Il a une représentation où la principale valeur développée par l’entreprise est la tech construite, et où les différents pôles doivent s’impliquer d’une manière ou d’une autre dans la construction de cette valeur (et cela même simplement par la pratique du dogfooding et les retours utilisateurs). [clarté] [culture]
+D’autres rôles comme les directrices commerciales successives sont portées à conserver les représentations des entreprises de ventes auxquelles elles sont habituées, où les sales (commerciaux) sont le principal moteur des entreprises, et où tout doit être fait pour rendre leur travail le plus fluide possible. [intérêt]
+Les fondatrices ne savent pas non plus vraiment ce qu’est une startup tech. Elles ont tendance à dissimuler leur incompétence pour préserver leur image, plutôt que de l’assumer franchement pour apprendre. Cela fait qu’elles ont du mal à arbitrer entre les différentes visions de l’entreprise. On peut aussi supposer qu’elles résistent à l’idée de voir l’entreprise dériver vers des sujets qu’elles maîtrisent moins. [intérêt][compétence][culture]
+L’opposition entre un pôle tech qui essaie de tirer l’entreprise vers cette identité “startup tech”, et le reste de l’entreprise qui reste dans ses fonctionnements anciens, avec un manque d’arbitrage concret de la direction, traverse l’ensemble des difficultés pratiques rencontrées dans les interactions entre équipes. [décision][clarté]
+
+Sentiment de flou dans l’ensemble des équipes
+La plupart des équipes ne comprennent pas dans quelle direction va l’entreprise. Nous organisons par exemple un séminaire, où chaque chef de pôle fait une présentation, ainsi que les deux fondatrices. Cependant, les présentations sont jugées peu claires par les équipes, et surtout trop floues. [clarté][précision]
+Chaque présentation de ce type donne en fait lieu à un nouveau discours chez Hortense et Chloé (ex : slogan “la grande redistribution” au moment du séminaire. Je n’ai plus d’autres exemples en tête, mais c’était vraiment une nouvelle chose à chaque fois). Tout cela semble globalement hors sol aux équipes, qui n’arrivent pas à se fixer dans une direction donnée. Cela génère également de l’anxiété chez les salariés.
+Comme j’ai un pied des deux côtés, j’ai accès aux retours négatifs que ne reçoivent pas forcément les fondatrices. J’essaie de les convaincre qu’on va quand même quelque part mais je sens bien un écart, surtout pour les personnes d’autres pôles que le pôle tech. [information][clarté]
+
+
+
+Un management déficient
+
+Sous ces difficultés stratégiques, l’entreprise se caractérise aussi par un management humain déficient.
+
+Le rejet de la responsabilité de manager
+Dès le début de l’entreprise, Hortense rejette le rôle de manager, et revendique une organisation horizontale, où chacun fonctionne en quasi autogestion. Cela s’accompagne du rejet d’un certain nombre de termes, comme chef, boss, manager… [clarté] [X]
+Dans les faits, tout le monde est effectivement largement laissé à lui-même, sans travail fait sur le développement des personnes, ou sur le fait d’apporter des orientations dans le travail de chacun. [management_autonomie][management_suivi][coordination]
+Par exemple, pendant les trois années où j’ai travaillé sans Laurent, avec uniquement elles comme collaborateurs séniors, je n’ai reçu aucun feedback de leur part sur mon travail, sur ma façon de le faire. [clarté][management_former][management_suivi][précision]
+
+Le manque de feedbacks directs
+Alors que le feedback direct et positif (exprimé par exemple dans le livre Radical candor que Laurent nous fait lire à Noémie et moi) est promu dans l’univers startup, les relations au niveau comité de direction sont marquées par un manque de feedback. Il est possible de se rendre compte assez longtemps après que Hortense pensait des choses très négatives à propos d’un directeur de pôle, ou de certaines de ses orientations, mais qu’elle ne l’ait pas exprimé. [clarté]
+
+Des pratiques toxiques
+Cette revendication n’est évidemment suivie d’aucun équilibrage des rapports de pouvoir, puisque dans tous les conflits qui ne manquent pas d’arriver, elle a gain de cause sur les salariés qui finissent par partir. Ces conflits et ces départs sont cependant toujours présentés comme résultants d’un commun accord avec la personne qui part. Il n’est jamais vraiment assumé qu’on a viré telle personne. [intérêt][clarté][X]
+De façon assez caractéristique, sur la fin de l’entreprise, Hortense et Chloé ont annoncé leur licenciement à 8 personnes le jeudi et le vendredi, et Hortense est partie en vacance la semaine suivante (et Chloé travaille au Mans) laissant l’ensemble des salariés parisiens entre eux, sans présence managériale. [management_suivi]
+De la même façon, les fondatrices (et en particulier Hortense) n'assument la responsabilité personnelle d’aucune erreur ou échec, et rejettent toujours la faute sur d’autres membres de l’équipe (ex: elles ont mis les employés au chômage partiel sans les prévenir, et ils l’apprennent par les fiches de paie de chômage partiel “envoyées trop tôt par la compta” pour pouvoir prévenir). [clarté][X]
+
+Des process de recrutement trop “au feeling”
+Les recrutements au niveau de la direction des pôles sont souvent faits de façon trop rapide, et se révèlent rapidement désastreux. Une directrice commerciale est recrutée sur un coup de tête après avoir pris un café et se révèle très vite incompétente… [intention]
+L’orientation de l’entreprise n’est pas suffisamment spécifiée aux personnes avant de les recruter, ce qui entraîne souvent des conflits ultérieurement. Entre autres, on évite de montrer aux gens où on en est parce que c’est quand même vachement le bazard alors qu’à l’extérieur on a une image beaucoup plus rayonnante. [clarté] [fake make]
+Par exemple, Laurent arrive avec une idée de ce qu’est une startup tech assez radicale. Hortense et Chloé ne creusent pas suffisamment la compatibilité qui existe entre leur projet et son approche. Cela mène à des incompréhensions pour toute la suite de la collaboration. [clarté]
+Autre exemple, quand j’ai voulu passer en temps partiel pour faire une licence de philosophie, elles ont accepté immédiatement, sans travail de cadrage pour cette situation particulière vu mon niveau de responsabilité. [clarté][management_suivi][intention]
+
+“Travail en silo”
+Comme il y a peu de management croisé entre pôle de la part des fondatrices, les équipes sont gérées de façon très indépendantes par les chefs de pôle, qui suivent leur propre agenda. Le pôle commercial tire vers la réalisation de davantage de ventes, le pôle tech essaie de dégager du temps pour son innovation, sans que des arbitrages soient réellement pris sur les priorités à suivre, sur les coopérations à mettre en avant. [coordination]
+Idéalement, on voudrait que dans certains cas, le manager des sales ou une des fondatrices passe le message aux sales de travailler sur du nettoyage de données sur la plateforme, et surveille qu’ils fassent bien ce travail. Cependant, ça n’arrive jamais. [coordination][management_suivi]
+
+Vouloir structurer ou non ?
+A un moment de la vie de l’entreprise, un débat important intervient sur la structuration : faut il ou non se structurer ? De nombreuses personnes sont arrivées dans l’entreprise et ont été effrayées par la désorganisation générale (plusieurs directrices commerciales qui se sont succédées notamment). Pendant longtemps, la réponse d’Hortense était qu’il ne fallait pas de structure, que la non structure était nécessaire à notre stade de développement pour être réactif face aux opportunités. Elle avait tendance à imputer aux gens des habitudes venues de grands groupes et d’entreprises stables, différentes des startups, qui les rendaient trop rigides. [culture][X][penser]
+Cependant après la levée de fonds, à l’arrivée de Laurent, l’ambiance change un peu. Sarah, la directrice commerciale en place, pousse fortement pour la structuration et elle emporte en partie la bataille des idées. De toute façon, avec 10 M€ levés, tout le monde se dit que c’est le moment de se structurer. Sur le coup j’ai trouvé la réaction de Laurent face à ces discours appelant à la structuration est intéressante : il expliquait qu’à Apple à l’époque où il y était, il y avait très peu de structuration. Juste deux ou trois outils pour centraliser les bugs et autres. Mais que tout s’organisait de façon assez rationnelle. Il pointait une tendance à se précipiter sur “la structuration” de façon un peu incantatoire, sans se demander vraiment pour quoi on veut structurer, ce qu’on veut structurer…  [penser][faire][infra]
+
+Il est intéressant de comparer l’attitude de Sarah (directrice commerciale) et de Laurent sur ce sujet : Sarah en arrivant chez Fleurs d’Ici a très vite commencé à se plaindre du fait que ça n’était pas assez structuré. En essayant de convaincre directement Hortense et Chloé que ce n’était pas assez structuré. De son côté Laurent a plutôt mis en place de petites choses pour commencer à structurer (ex : réunions hebdo cross pôles) [tout][sequencer]
+
+Tentative de fixer des objectifs
+Dans ce climat de recherche de structuration, nous sommes invités à mettre en place des objectifs OKR par les investisseurs (Objectivs and Key Results). On doit définir pour chaque équipe, voire chaque personne des objectifs précis. 
+Cependant, dans le stade de désorganisation général de l’entreprise, avec tous les problèmes de management déjà cités, on peut dire que c’était mettre la charrue avant les bœufs. Ces objectifs finissaient par être assez vague, ne pas vouloir dire grand chose, et n’apporter rien au pilotage de l’entreprise. Poser un premier jalon de coordination lors des réunions d’équipe, unique et simple, aurait été largement plus raisonnable que de faire une liste exhaustive d’objectifs que tout le monde allait oublier par la suite. [process_vide][tout]
+
+Réunions et design collectif
+
+Manque d’intention dans les dispositifs organisationnels
+Comme il n’y a pas d’intention mise dans les dispositifs organisationnels, (réunions, slack…) ils deviennent rapidement inefficaces et source de souffrance pour les participants.
+La réunion d’équipe du début de semaine avait été introduite à ma demande au tout début de mon travail à Fleurs d’Ici, afin d'apporter de la coordination entre les équipes. Cependant, elle n’est pas investie d’un sens quelconque par les fondatrices, et elle tombe très vite dans un fonctionnement vide et répétitif. Chacun annonce tour par tour ce qu’il a fait la semaine précédente, et ce qu’il fera la semaine suivante. Ce que j’envisageais comme l’occasion d’un travail collectif ne devient finalement qu’une sorte de revue d’effectif, où Hortense profite de l’occasion pour vérifier que telle personne a bien fait ce qu’il fallait sur un détail qui la préoccupe particulièrement. A partir du moment où nous sommes plus de 10 personnes, ce cadre est cependant particulièrement mal adapté à ce genre d’échanges, qui prennent du temps à tout le monde, ne laissent pas la place à un vrai échange de management et qui sont souvent humiliants pour ceux qui y sont soumis. [reunion_vide] [process_vide][intention]
+
+Caroline (opérations) me dit par exemple qu’elle craignait cette réunion, car elle avait peur de se faire juger sur la quantité de chose qu’elle faisait. Heureusement, à un certain stade du développement il y avait suffisamment de monde pour qu’elle puisse se cacher. [désengagement]
+
+Manque de rigueur dans le suivi des dispositifs choisis
+Avec Laurent nous poussons pour limiter les formats de réunion, de les limiter par exemple à 30 minutes. Ces choix sont validés en comité de direction, mais lors des réunions, les fondatrices elles-mêmes ne suivent pas les règles. Elles retombent dans les mêmes travers de se servir de la réunion pour des questions qui doivent être traitées en direct avec la personne, et dépassent largement le temps défini. Je pense qu’en partie elles disent oui oui avant mais qu’au fond elles pensent que c’est pas si mal de faire comme ça [rigueur][intention][clarté]
+
+Manque de cadrage des réunions
+La plupart des réunions manquent en général de cadre. Personne n’est désigné pour tenir la réunion, il n’y a pas d’objectif précis défini, ni de préparation. Il y a une habitude prise collectivement de partir dans tous les sens, de ne pas se concentrer sur certaines questions précises. [intention][management_suivi][tout][sequencer]
+On a l’impression que tout le monde ouvre de nouveaux tiroirs sans cesse, des questions de plus en plus éloignées, jusqu’à ce qu’il devienne impossible de trancher sur la question de départ. [dispersion][focus][tout]
+Les échanges en direct, présentiel ou visio, ont tendance à accentuer ce travers, par rapport à des échanges par écrit où on est obligés de réfléchir à ce qu’on souhaite dire. Il y a aussi une tendance à organiser des réunions avec beaucoup trop de personnes, avec l’idée qu’il faut que tout le monde soit présent pour avoir les opinions de tout le monde sur un sujet. Malheureusement souvent ces réunions font perdre du temps à des équipes déjà surchargées, et ne permettent pas d’arriver à des conclusions utiles. [oral][écrit][tout]
+
+Intervention de consultants externes
+La même envie de voir “tout le monde se parler”, de “mettre tout à plat” pousse régulièrement Hortense et Chloé à faire appel à des consultants externes (pas de grosses entreprises de conseils mais plutôt des freelances indépendants). C’est par exemple le cas pour la compta et pour le marketing pour définir les produits de la partie aval.
+Ces interventions sont assez mal perçues par les équipes. Ils font parfois doublon avec des compétences déjà présentes dans l’équipe (la compta a recruté un directeur financier, ce qui est déjà beaucoup pour une entreprise de cette taille). Ils donnent des conseils abstraits qui n’aident pas à abattre la quantité de travail nécessaire pour remettre les choses en ordre, et prennent beaucoup de temps pour de longues réunions où ils demandent qu’on leur explique le fonctionnement de l’entreprise.
+L’intervention de ces consultants empêche de constituer une vraie compétence en interne. Ces projets pourraient être des situations d’apprentissage, mais en voulant trop diviser le travail entre une personne qui réfléchit (le consultant) à partir de personnes qui se confrontent à l’expérience (les salarié) et qui présente ses résultats à la fois aux salariés et aux fondatrices. Cela déresponsabilise les salariés :
+vous n’avez pas à élaborer une pensée sur votre travail mais simplement à restituer une expérience brute
+Vous n’avez pas le rôle de formaliser vos opinions et de venir les présenter à l’échelon supérieur
+Les fondatrices/managers n’ont pas le rôle de former les salariés à faire ce genre de choses
+L’entreprise n’a pas à travailler sur ses fonctionnements qui pourraient permettre d’accumuler de l’expérience à partir des expériences rencontrées (post mortem par exemple).
+Les consultants apparaissent alors comme des palliatifs aux problèmes internes de l’entreprise. Plutôt que de résoudre ces problèmes et d’avoir progressé pour la prochaine fois, on fait intervenir ponctuellement quelqu’un pour résoudre ce problème précis. [apprentissage][management_utiliser][management_former][petites_taches][penser][faire]
+
+Leur présence renforce l’impression que les fondatrices n’arrivent pas à collaborer directement avec leurs équipes et qu’elles sont obligées de passer par ces interlocuteurs extérieurs pour avoir confiance en ce qui est remonté. Chloé a par exemple besoin d’un consultant pour rendre plus précise ses intuitions sur les “catégories” de fleurs. C’est aussi un moyen de pallier aux difficultés d’organisations de Chloé, qui a tendance à perdre les gens dès qu’elle intervient sur un sujet. [reconnaissance][grove_information_rassembler]
+
+
+Le commun de l’entreprise
+
+On s’intéresse maintenant aux interactions entre les différents pôles dans l’entreprise (et notamment l'interaction avec le pôle tech qu’on présentera plus en détail ensuite).
+Il y a plusieurs lieux pour ces interactions :
+Les interactions comme lors de la réunion d’équipe hebdo vue dans la première partie.
+La messagerie slack de l’entreprise, où on peut échanger avec tout le monde.
+Des réunions et des discussions ad hoc ont également lieu pour faire le point sur un projet commun, poser une question si on est tous au bureau.
+Le logiciel Gather Town permet également d’aller voir des gens un peu n’importe quand et de démarrer une visio à deux ou plus.
+A l’arrivée de Laurent, nous instaurons un cadre plus fixe pour les interactions entre pôles : pour chaque pôle une conversation slack tech-pôle avec les gens des deux pôles. Et également une réunion hebdomadaire pour chaque pôle, qui doit durer 30 minutes max, pour faire le tour des projets en commun.
+
+
+
+Intéresser les autres pôles
+
+L’entreprise est censée faire une transition d’une entreprise de fleurs locales à une startup tech de logistique en circuit courts. La tech est donc censée devenir un point de focus pour un peu toutes les équipes.
+
+Notre idéal : eat your own dog food (à Apple, toutes les équipes doivent installer la nouvelle version de l’OS quand il sort pour qu’il soit testé).
+
+Les présentations régulières en réunion d’équipe
+Pour intéresser les autres pôles, nous mettons en place un rythme de démonstrations régulières, pour montrer ce que nous avons produit. Une personne de l’équipe travaille sur une démonstration qu’elle a travaillé, sur une fonctionnalité qu’elle a créé.
+Exemples de fonctionnalités : 
+Représentation carte des flux de livraison gérés par la plateforme.
+Analytics sur les livraisons de la plateforme, semaine par semaine…
+Fonction de recherche intelligente intégrée à la plateforme 
+Ces démonstrations ont pour but de faire progressivement percevoir les différentes briques de la plateforme, pour que la cohérence soit comprise au fur et à mesure. [information]
+
+Un enjeu important est de faire que ces présentations soient propres, qu’il n’y ait pas de bugs quand on présente (c’est une grande blague dans la tech qu’il y a un “effet démo” quand on présente quelque chose qui fait qu’un bug arrive toujours à ce moment là, alors que ça marchait avant). Autant que possible on blinde donc la démonstration avant pour éviter l’aspect déceptif d’un bug en pleine démonstration. Cela risquerait de décrédibiliser la tech et de démotiver les gens à travailler avec nous. [crédibilité] [désengagement]
+
+En parallèle, nous faisons aussi des présentations sur slide, plus dans un objectif pédagogique. Par exemple, une présentation qui explique le fonctionnement d’un bout donné de la plateforme, ou une présentation plus générale comme celle faite à la BPI, que les personnes en interne sont invitées à regarder. [information][formation][management_former]
+
+La perception mitigée des autres pôles
+Ce n’est pas toujours un succès. Parfois ils ne comprennent pas ce qu’on voulait leur montrer. Globalement ils ne vont pas beaucoup regarder ce qu’on leur montre dans les démos, surtout si ça ne leur sert pas directement à quelque chose (pourtant dans une optique “boite tech” ils devraient aller regarder même si ça ne leur sert pas). [crédibilité][désengagement]
+
+Un manque de canalisation des demandes
+Ce point centralise peut-être toute la question de la culture tech de l’entreprise.
+
+La question : “Est ce que c’est possible de faire ceci ?” revient sans cesse. Cette question a un double tranchant : d’abord c’est une fausse question. Comme répondent souvent les développeurs, “on peut tout faire mais ça dépend combien de temps on a envie d’y investir”. Mais surtout, c’est une manière de rester dans le flou, et de ne pas vraiment entrer en coopération avec la tech.  [précision][compétence]
+
+La question n’est bien sûr pas qu’ils doivent tout comprendre au fonctionnement du système, et au contraire. Par contre, même sans comprendre la technique, ils doivent comprendre le fonctionnement du système “par le bout utilisateur”. Une personne qui s’implique dans la coopération avec la tech (Donovan de la compta par exemple, ou Bérénice des opérations) arrive à comprendre la logique de la plateforme, et peut par exemple trouver grossièrement l’origine d’un bug avant que le pôle tech n’intervienne (“j’imagine que c’est parce qu’elle n’a pas de date de commande”).  [formation][management_former][précision][compétence]
+
+De même, une personne qui s’implique dans la coopération avec la tech arrivera souvent à décrire la fonctionnalité qu’elle veut avec précision : “à cet endroit là, je voudrais un bouton qui fasse ceci. Je voudrais telles et telles informations dans les colonnes de mon export…”. A l’inverse, les personnes qui ne s’impliquent pas dans la coopération ont tendance à faire des demandes vagues “on pourrait avoir un truc qui évite de devoir leur envoyer des emails”. Passer d’une telle expression d’un désir à une fonctionnalité développée est compliquée, car cela laisse énormément de choix métiers à faire aux développeurs, et c’est beaucoup d’aller retours qui doivent être initiés par la tech. Souvent, si on va jusqu’au bout de fournir la fonctionnalité en question, elle restera inutilisée. [formation][petites_taches][précision][compétence]
+
+Si on suit une décomposition en Pourquoi / Quoi / Comment, il ne faut pas nécessairement que les non tech appréhendent le “comment”, la façon dont le code est écrit etc... Cependant, ils peuvent et doivent se concentrer sur la logique du produit : qu’est ce qu’on veut voir dans cette plateforme ? Qu’est ce qui aurait une cohérence ? Quels fonctionnements logiques sont attendus à cet endroit ? [séquençage][compétence]
+
+Rattraper le bazar environnant
+
+Une entreprise qui s’est beaucoup dispersée
+Les projets se sont multipliés au cours du temps : B2C, B2B, événementiel (fleurissement de roland garros..), Approvisionnement fleuriste-producteur, végétalisation d’intérieur et entretien (végétalisation de LVMH), compte clients entreprises…[dispersion]
+
+De la dette technique et dans les données
+Le code de la plateforme a plein de problèmes. Les différentes données qu’on a ont aussi des problèmes ( plein de choses au mauvais format…) on a besoin de travailler là-dessus avant de passer à des étapes suivantes. [petites_taches][faire][focus]
+Par exemple on a :
+Beaucoup de bugs sur la plateforme
+Dans le code et la base de données, il y a des noms en français, d’autres en anglais…
+Plein d’interfaces différentes qui perdent les gens
+Un espace client B2B dysfonctionnel qu’on se traine avec des bugs tout le temps
+
+
+Des choix de cut à faire
+Dans cette situation, il faut abandonner certaines parties de l’activité. Mais ce sont des prises de décision difficiles. Et il y a toujours l’espoir d’arriver à garder ces activités. On a donc du mal.
+Y a quand même un moment où on comprend qu’il faut arrêter le compte client, qu’il faut arrêter la véget de LVMH etc… mais c’est souvent trop tard pour arriver à se retourner. [décision][focus][dispersion]
+
+Un travail de fourmies à accomplir
+Pour les données etc, on a surtout besoin de repasser dessus à la main pour réparer les choses. Cela demande donc de faire un travail assez rébarbatif, dans l’interface, de nettoyage des données.
+C’est un travail qui passe assez vite et qui est instructif si il est bien réparti, et fait au fil de l’eau. Cela permet de comprendre les cas de figures rencontrés, les cas qui bloquent, certains bugs… Pourtant c’est une tache que beaucoup de personnes fuient. [petites_taches]
+
+
+
+
+
+Relation avec les autres pôles
+
+Demandes venant des autres pôles
+Chaque pôle à des demandes envers nous. Cela peut prendre la forme de : 
+Bug sur un outil développé en interne
+Les livraisons attribuées n’ont pas correctement été transmises au système du livreur
+Une livraison n'apparaît pas dans l’interface
+Un client a été dupliqué
+Fonctionnalité ad hoc pour des cas particuliers
+je veux que les commandes passées sur la plateforme interne de L'oréal s’intègrent directement dans la plateforme
+Je veux une fonctionnalité pour gérer les sapins dans une opé spéciale
+Fonctionnalités générales à ajouter sur la plateforme
+je veux que les dispatchs logistiques faits à la main la semaine dernière se fassent automatiquement la semaine suivante.
+Je veux pouvoir entrer des commandes avec plusieurs bouquets dedans.
+Fonctionnalités à ajouter sur le site vitrine : 
+Ajouter un petit texte informant des horaires de livraison
+Ajouter un formulaire spéciale pour une opé spéciale pour la fête des mères
+Comprendre pourquoi depuis 1h les clients ne peuvent pas passer commande
+Soucis techniques généraux
+J’arrive pas à imprimer ce fichier
+J’arrive pas à faire ces formules sur excel pour calculer la performance de mes équipes ce mois-ci
+J’ai des problèmes avec le gestionnaire de mots de passes installé dans toute la boite.
+
+Dans la tech, nous procédons à une classification implicite des demandes en fonction de plusieurs critères. 
+Le souci/besoin remonté sert-il au développement futur de la plateforme ?
+A quel point le souci/besoin remonté est indispensable pour les utilisateurs ?
+Régler ce point là pourra-t-il nous éviter de passer plus de temps sur ces problèmes ?
+
+Nous sommes dans une situation où nous sommes déjà submergés par des demandes et des choses qu’on doit régler (réduire la dette technique, voire plus bas) et où on n’arrive pas à dégager du temps pour travailler sur le cœur de la plateforme. Nous devons donc autant que possible chercher à dégager du temps pour travailler sur ce qu’on sait primordial si on veut que l’entreprise atteigne ses objectifs de long terme.
+
+Dans le chapitre 2 du livre les nouvelles sociologies du travail de P. Ughetto, on retrouve un cadre d’analyse venu de l’étude des relations de service qui correspond à ce travail.
+Rendre des arbitrages entre plusieurs instructions, juger ce qui est prioritaires, catégoriser et éduquer les clients, apaiser les tensions…
+
+Gérer l’insatisfaction des autres pôles
+Régulièrement, il y a des motifs raisonnables d’insatisfaction de la part des autres pôles. Une fonctionnalité a un bug, ou si on fait une modification qui abîme des données, qui leur donne plus de travail à faire ou qui les met en retard pour boucler leur journée. Dans ces cas là, il y a un vrai travail de relation de service à mener (cf Ughetto et Joseph : « rendre compte c’est d’abord s’expliquer après coup d’un comportement fâcheux, d’une promesse non tenue, d’une marque d’irrespect, d’un impair ou d’une gaffe. Dans tous les cas, c’est réduire le fossé entre une action et les attentes qu’elle vient de décevoir. » (Joseph, 1998, p. 109))
+
+Exiger des tâches des autres pôles
+On demande parfois nous aussi des choses aux autres pôles. Par exemple, nettoyer leurs données client. Rentrer les contrats de leurs clients dans la plateforme alors qu’ils les traitaient dans des fichiers gsheet jusque là, etc.
+Quand on leur demande des tâches de ce genre, comme ils ne font pas partie de notre pôle, on est plus ou moins légitimes à leur demander. Il faut que la demande soit reçue par les équipes, et cela passe par plusieurs moyens : faire preuve d’autorité, s’appuyer sur le manager de la personne, être chiant jusqu’à ce que la personne le fasse (mais au risque qu’elle y mette encore plus de mauvaise volonté), échanger quelque chose en retour… 
+Cela mène également à catégoriser les personnes. Les opérations sont généralement de bonne volonté, mais les sales font “leurs princesses” et rechignent à s’abaisser à des tâches comme celles-là.
+
+Parmis elles, on identifie à nouveau plusieurs profils : 
+Une fait tout pour esquiver ce qu’on lui demande, est de toutes façons assez perdue, et ne prévient qu’au dernier moment qu’elle n’y arrive pas
+une autre a l’air perdue quand on lui explique mais est très efficace quand elle s’y met. Par contre si on la sollicite trop elle envoie balader.
+Une autre est consciencieuse et c’est un plaisir de travailler avec elle, mais elle se fait virer parce qu’elle n’a pas d’assez bons résultats de ventes.
+
+Ces identifications sont autant de moyens d’adapter son comportement dans les prochaines interactions et demandes qu’on fait à ses personnes. Avec Noémie et Laurent on passe pas mal de temps à discuter de ces choses-là, et on le fait pour toutes les personnes avec qui on travaille de près ou de loin (et même entre nous dans les périodes de tension).
+
+Demander des feedbacks aux autres pôles
+On a besoin que les gens donnent des feedbacks au fur et à mesure. La vision idéale qu’on a est le dogfooding. Cette pratique basée sur la phrase “eat your own dog food” consiste à faire que les équipes internes utilisent les outils produits par l’entreprise. Avoir des utilisateurs c’est important pour construire un produit tech : cela permet de détecter les bugs, de se rendre compte rapidement de ce qui est utile ou de ce qui ne l’est pas, etc. 
+Mais ça marche si les personnes acceptent de tolérer les erreurs qui peuvent naturellement surgir dans un produit qui est à ses premières étapes. Il faut que les personnes ne se découragent pas, prennent le temps de comprendre comment fonctionne un logiciel pas encore tout à fait intuitif, essaient de faire les 80% qu’ils peuvent et nous laissent régler les 20% restants où il y a des bugs…
+De plus, nous leur proposons régulièrement d’aller consulter des interfaces sur lesquelles nous travaillons, qui ne sont pas directement utiles à leur travail, mais qui donnent un sens à la plateforme. Par exemple, la partie Data visualisation, qui permet de visualiser les flux sur une carte, et de présenter des données agrégées sur des dimensions importantes pour la plateforme : volumes, le nombre d’acteurs sollicités, une première estimation du CO2 économisé sur la période…
+Cependant, on a du mal à avoir des retours utiles dans un premier temps. On ne sait pas si les gens trouvent ça intéressant ou pas, s'ils vont voir. Notamment, tout le monde est trop pris par ses urgences quotidiennes pour prendre le temps de se pencher sur ces choses. Cela deviendra un peu différent quand ça commencera à faire des interfaces plus impressionnantes.
+
+Laurent finit par installer des métriques sur qui se connecte pour voir ce que les gens font vraiment. On se rend compte que personne se connecte.
+
+La balance back/front
+L’entreprise a, depuis le début et explicitement, été séparée entre un back et un front office. Le front office correspond à la communication/marketing et aux commerciaux, le back office correspond aux opérations et à la tech. Dans une entreprise orientée vers la vente, le back office est assimilable à une fonction support, qui doit permettre au front de bien fonctionner.
+Cette configuration (qui ne correspond déjà pas à une entreprise “tech”) a tendance à créer une tension générale entre le front et le back office. 
+Du côté du back office, l’idéal serait de livrer tous les jours exactement les mêmes produits, de la même façon.
+À l’inverse, le front office veut toujours créer plus de customization pour ses clients, et pour ses opérations spéciales marketing. Un client B2B demande d’avoir chaque semaine des fleurs blanches, et le commercial en charge de la vente accepte pour valider son contrat. La communication veut aussi organiser des livraisons de bouquets à des journalistes, mais sait au dernier moment à quel endroit ils doivent être livrés puisque c’est une surprise. Chacune de ces spécificités entraine un travail supplémentaire chez les opérations.
+
+En général, le fait que les commerciaux soient payés avec un salaire variable en plus de leur fixe les pousse à accepter toutes les demandes des clients pour atteindre leurs objectifs. On se retrouve alors avec des cas de figures qui n’aident pas à démontrer la valeur de la plateforme logistique qu’on construit (parce qu’ils doivent être traités à part, ne rentrant pas dans les cases prévues), ou qui forcent à un lourd travail de customization dans le système, pour des cas qui ne se reproduisent pas souve.
+
+
+Un focus sur le projet d’intégration de la compta
+
+Une période particulière semble sortir du lot dans la coordination inter-pôles habituellement déficiente, que je connais bien parce que je l’ai pilotée.
+Au début de l’année 2023 nous sommes à un stade où la dette technique a été un peu résorbée dans le système après un travail intense de l’équipe tech et notamment de ma part. L’entreprise tente progressivement de pivoter vers une plateforme de logistique qui porte sur l’amont de la chaîne de valeur (le lien producteur fleurist, avec des tournées de ramasse-livraison régionales) plus que sur l’aval (le lien fleuriste client final, déjà largement balisé par d’autres entreprises). Les volumes augmentent assez rapidement sur cette activité, et il faut intégrer cette activité dans la plateforme pour pouvoir bénéficier de certaines fonctionnalités sur la facturation par exemple.
+
+Jusque là nous faisons attention à ne pas trop nous précipiter, mais là je sens que les éléments sont alignés pour mettre un coup d’accélérateur dans cette direction. Je convainc d’abord Laurent et Noémie qu’on se lance dans une opération “deadline” où on fait travailler tout le monde dans le même sens pour avancer rapidement sur ce projet. 
+Je prends aussi le lead auprès de l’Horticoncile pour imposer qu’on mette ce projet en focus auprès de toutes les équipes pour les prochains réunions.
+
+Je prépare bien mon coup avec Laurent, qui me brief sur le sujet des deadlines : prendre de la marge pour ne pas les rater, fixer des objectifs très précis aux gens, vérifier à l’avance qu’ils y arriveront bien, passer derrière pour s’assurer que tout va bien et corriger, mettre une pression ascendante jusqu’à la deadline… 
+
+Je prépare donc ce que je demande à chaque personne / pôle, et j’utilise enfin la réunion d’équipe pour ce que j’aurais voulu qu’on fasse dès le début : mettre un point de focus précis à l’équipe sur un sujet qui doit être une préoccupation collective dans les 2, 4 semaines à suivre. Je repasse ensuite auprès de chacun pour faire un dispatch précis des tâches. 
+Je m’appuie sur plusieurs étapes, d’abord une intégration de la facturation pour l’aval (fleuriste - prod), qui demande déjà de faire pas mal de nettoyage de données, d’entrées de données à la main, surtout auprès des commerciaux qui ont tendance à avoir des infos de contrats un peu à droite à gauche dans des fichiers annexes. C’est aussi l’occasion d’une collaboration très sympa avec la compta, avec qui on fait plein de tests, qui nous font des retours pertinents à chaque fois, et qui finissent ravis de ce qu’on a développé.
+Je m’appuie ensuite sur la réussite de cette première deadline pour en poser une nouvelle sur l’intégration de la même chose côté aval, producteur - fleuristes. C’est encore une fois un succès.
+A chaque fois je suis bien les conseils de Laurent. Je fais des points d’étape réguliers à tout le monde en communiquant le niveau d’avancement du travail qu’on a à faire, en faisant aussi du “cheerleading” selon les termes de Laurent : je trouve une méthode un peu à moi pour mettre de l’entrain dans les équipes, avec des messages remplis d’emojis mi sérieux mi second degré.
+Les réunions d’équipe sont l’occasion de communiquer sur l’avancement de ces projets et de remettre de l’énergie dans ces directions.
+
+Le bilan de ces opérations est très positif. Nous avons réalisé des bonds rapides dans la direction où nous voulions aller, et on a réussi à faire bosser toutes les équipes ensemble autour. Malheureusement après ça je pars en vacances deux semaines et l’énergie est complètement retombée. Quelques mois après, c'est le crash de l’entreprise.
+
+Equipe tech
+
+Fonctionnement quotidien interne de l’équipe
+
+Intégrer les nouveaux
+Quand de nouveaux développeurs sont recrutés dans l’équipe, on essaie de les faire travailler sur un point particulier. On a souvent de petites craintes sur le fait de les faire entrer dans un projet assez bordélique. Donc on essaie de les faire travailler sur un bloc un peu à part, qui soit assez “fun” (data visualisation, recherche intelligente…)
+On fait le choix de recruter plutôt des développeurs jeunes. Toute la question est alors de les pousser dans une zone d’apprentissage ni trop facile ni trop dure (Zone proximale d’apprentissage de Vugotski, cité par Ughetto pour la théorie de l’activité).
+
+Les tâches rébarbatives
+Quand des problèmes nous remontent, il faut que quelqu’un s’en charge.
+Souvent ce sont des problèmes désagréables à régler : des bugs durs à comprendre et à identifier, qui demandent de bien comprendre le système mais pas un grand travail de design, qui doivent être réglés rapidement pour ne pas déranger les équipes -> qui demandent parfois de rester bosser tard pour que ce soit réglé le lendemain.
+Souvent c’est Noémie et moi qui nous retrouvons à les prendre en charge. Parce que nous sommes plus investis, parce que nous connaissons le mieux le projet, et parce que nous protégeons un peu les anciens arrivant contre la complexité du projet (nous voulons les laisser se concentrer sur un bout spécifique de la plateforme).
+Mais c’est aussi un enjeu de pouvoir dans l’équipe. Souvent, un bug est remonté dans le slack, et tout le monde fait “le mort” en le voyant. C’est nous qui finissons par le prendre en charge (et encore plus souvent Noémie).
+Avec Noémie, et un peu Laurent, on essaie d’inciter les autres devs à s’occuper des bugs mais c’est pas toujours facile : ils opposent le fait que Laurent leur a demandé de travailler sur une certaine tâche, etc.
+D’ailleurs Noémie se retrouve aussi souvent à devoir brancher les caméras pour la réunion de visio
+
+
+Prendre un rythme : raconter ce qu’on fait…
+On a une réunion interne à l’équipe chaque lundi matin où on dit rapidement ce qu’on fait et ce sur quoi on met le focus cette semaine.
+Mais on essaie aussi de mettre chaque jour ce sur quoi on a travaillé dans slack.
+
+Gérer les devs qui n’en font qu’à leur tête
+On a souvent un problème avec des développeurs qui veulent faire les choses à leur sauce, avec leur langage, avec leur design qui ajoute de la complexité alors qu’il n’y a pas besoin. On doit tempérer leurs ardeurs.
+
+Trouver du temps pour “vraiment travailler”
+On a besoin d’abattre beaucoup de travail sur la plateforme (dette technique, bugs, nettoyer les données…) mais on est tout le temps perturbés par d’autres choses : 
+Les réunions qui s’éternisent
+Les tâches administratives comme le dossier de demande du Crédit Impôt Recherche (CIR)
+Les petits trucs à résoudre par-ci par là demandés par les autres pôles.
+
+On essaye donc autant que possible de trouver du temps pour travailler sur la plateforme. Personnellement je code souvent pendant les réunions quand je vois que ça s’éternise pour rien. Ou parfois tard le soir quand on est enfin tranquille par rapport aux sollicitations extérieures.
+
+Accidents
+L’erase de la prod
+Le ransomware sur la base mongo de preprod
+
+
+Les meetings 1:1
+Laurent arrive avec la pratique de faire des meetings 1:1. On maintient ça et on se répartit les 1:1 en tournant avec Noémie Laurent et moi.
+
+Présenter l’équipe et recruter
+Par exemple, on s'entraîne à développer un discours, qu’on ressort en entretiens de recrutement.
+Au début, on se lance et c’est balbutiant. Mais au fur et à mesure, le discours commence à se fixer. On commence à avoir une petite partition qu’on joue à deux, où chacun dit une partie (lui le cadre global, moi qui raconte l’évolution de la boîte). Le process de recrutement en lui même est un mélange de façons de faire sédimentées que Laurent a depuis longtemps (inspiré aussi de Smart and get things done de Spolsky), et d’une touche qu’on ajoute nous même, qui correspond à notre équipe : par exemple le fait de faire passer l’entretien technique avec toute l’équipe tech, qui est une façon aussi de s’éduquer sur certains sujets. Le fait de faire passer un petit entretien avec des personnes d’autres équipes.
+
+
+Construire le long terme
+
+Réflexion sur le futur
+On doit garder du temps pour travailler sur le futur, sur le quoi de la plateforme. On fait des “jam sessions”, un peu en mode brainstorming, où on essaie de réfléchir tous ensemble dans l’équipe à ce qu’on essaie de faire.
+
+Faire des présentations
+Les présentations sont un moment important de réflexion. Même si c’est à destination des autres pôles on les prépare ensemble dans l’équipe. C’est l’occasion de parler du modèle de données etc.
+
+Apprendre
+On doit essayer de garder du temps pour apprendre sur certains sujets.
+Laurent nous prête des livres. par exemple : 
+Des livres de tech comme Seven languages in seven weeks pour apprendre à coder dans plusieurs langages et prendre du recul sur cette activité. Ou sur des technos infra qu’on utilise, sur les design patterns de BDD.
+Des livres de management, comme Radical Candor, sur la façon de faire des retours directs dans un cadre de travail.
+Des livres de développement perso, sur le fait d’apprendre à se concentrer, à gérer les crises…
+
+Progresser sans faire n’importe quoi
+Au début on est pas très bons : pas de maîtrise des outils de déploiement, des sauvegardes de la base de données, du code de la plateforme…
+Si on touche à trop de choses, on a peur de créer des bugs dans le système qui vont empêcher les opérations de faire leur travail. Soit leur rajouter un travail excessif alors qu’elles sont déjà très sollicitées, soit carrément faire manquer des journées de livraison
+Ensuite on rencontre quelques problèmes (gros accidents de prod) et on se rend compte qu’on arrive à s’en sortir.
+
+
+Individuellement
+
+Une partie importante de l’activité se passe dans le trio que nous formons avec Laurent et Noémie. Nous passons beaucoup de temps ensemble.
+
+Mathieu (moi)
+
+Overpromise
+J’aime faire plaisir aux gens. J’ai tendance à trop leur promettre (oui on vous fera cette fonctionnalité pour la semaine prochaine)
+En réalité je promets à trop de gens, ou des choses trop ambitieuses
+Les choses ne sont pas finies à temps
+J’ai tendance à me décrédibiliser
+Laurent m’apprend à under promise et over deliver : ne pas trop promettre, et si ça se passe bien apporter une bonne surprise au moment où on présente le travail effectué.
+
+Transmission des idées
+J’ai construit la plateforme du début à la fin, et que j’ai donc une connaissance de ce qu’il y a dedans, et des intentions qui y sont mises, qui dépasse de beaucoup celle des autres.
+Laurent s’énerve parfois parce qu’il est frustré de ne pas comprendre où je veux en venir. Du coup on travaille pas mal des présentations, qui sont faites soit à l’équipe tech, soit à l’ensemble de l’entreprise. Il me demande d’apprendre à ralentir, le flot de mes explications. 
+A ne pas partir dans toutes les directions. Il fait parfois un parallèle entre moi et Chloé qui a des travers similaires parfois.
+
+Entraîner les autres
+J’ai souvent tendance à foncer sur mes idées sans faire attention à entraîner l’équipe derrière moi. Je me mets facilement à développer des choses dans mon coin alors que les autres ne savent pas ce sur quoi je travaille.
+J’essaie alors de plus communiquer sur ce que je fais (expliquer un peu tous les jours ce sur quoi je travaille) pour que ça infuse au fur et à mesure.
+
+Savoir obéir sans trop poser de questions
+
+
+FIN DU DOCUMENT
+
